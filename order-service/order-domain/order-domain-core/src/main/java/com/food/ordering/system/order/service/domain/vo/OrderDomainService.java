@@ -20,6 +20,6 @@ public interface OrderDomainService {
 
     void cancelOrder(Order order, List<String> failureMessages);
 
-    
+
 
 }
